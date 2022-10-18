@@ -1,0 +1,13 @@
+nav p{
+    display: inline;
+}
+body{
+    font-family: Helvetica neue, roboto;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.home a{
+    color:yellow;
+}
